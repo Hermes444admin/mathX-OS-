@@ -1,4 +1,4 @@
-# MPL OS
+Math OS
 
 MPL OS is a modular operating system designed to provide a robust and efficient environment for running applications. It is built with a focus on performance, scalability, and ease of use. Below are the key features and components of MPL OS:
 
